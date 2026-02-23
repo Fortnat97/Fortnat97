@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hi, I’m Giuseppe Fortunato<br>A passionate Full Stack Developer with strong experience in Java and modern web technologies. I enjoy building clean, scalable, and maintainable software solutions. Currently working on Credit Risk applications at EY, and always learning new tools and best practices in software engineering.<br><br>✨ Skills: Java, Spring Boot, Angular, Vue.js, Docker, Kubernetes, CI/CD<br>📂 Interests: Backend development, cloud-native systems, API design, software quality<br><br>Let’s build great software together! 🚀
+👨‍💻 Hi, I’m Giuseppe Fortunato<br>A passionate Full Stack Developer with strong experience in Java and modern web technologies. I enjoy building clean, scalable, and maintainable software solutions. Currently working on Credit Risk Banking applications at EY, and always learning new tools and best practices in software engineering.<br><br>✨ Skills: Java, Spring Boot, Angular, Vue.js, Docker, Kubernetes, CI/CD<br>📂 Interests: Backend development, cloud-native systems, API design, software quality<br><br>Let’s build great software together! 🚀
 
 
 ## 🌐 Socials:
